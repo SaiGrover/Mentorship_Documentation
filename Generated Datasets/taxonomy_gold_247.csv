@@ -1,0 +1,248 @@
+skill,linkedin_frequency,category,sub_category,confidence
+communication,370143,Soft Skill,General,1.0
+customer service,278102,Domain Knowledge,General,0.95
+teamwork,227609,Soft Skill,General,1.0
+communication skills,195949,Soft Skill,General,1.0
+leadership,185187,Soft Skill,General,1.0
+problem solving,149032,Soft Skill,General,1.0
+time management,142911,Soft Skill,General,1.0
+attention to detail,133975,Soft Skill,General,1.0
+problemsolving,129329,Domain Knowledge,General,0.95
+project management,121563,Domain Knowledge,General,0.95
+interpersonal skills,100267,Soft Skill,General,1.0
+patient care,99926,Domain Knowledge,General,0.95
+sales,93031,Domain Knowledge,General,0.95
+nursing,88015,Domain Knowledge,General,0.95
+collaboration,87116,Soft Skill,General,1.0
+training,83656,Domain Knowledge,General,0.95
+data analysis,81964,Technical,General,1.0
+microsoft office suite,75531,Technical,General,1.0
+organizational skills,75274,Soft Skill,General,1.0
+inventory management,71911,Domain Knowledge,General,0.95
+high school diploma,67267,Noise,Qualification/Benefit,1.0
+scheduling,64461,Domain Knowledge,General,0.95
+bachelor's degree,63490,Noise,Qualification/Benefit,1.0
+multitasking,62044,Domain Knowledge,General,0.95
+analytical skills,60768,Domain Knowledge,General,0.95
+microsoft office,60604,Technical,General,1.0
+adaptability,59121,Soft Skill,General,1.0
+flexibility,56896,Soft Skill,General,1.0
+critical thinking,53081,Soft Skill,General,1.0
+documentation,51875,Domain Knowledge,General,0.95
+organization,47045,Domain Knowledge,General,0.95
+safety,45908,Domain Knowledge,General,0.95
+budgeting,45401,Domain Knowledge,General,0.95
+troubleshooting,44508,Technical,General,1.0
+excel,41498,Technical,General,1.0
+problemsolving skills,41468,Domain Knowledge,General,0.95
+written communication,41235,Soft Skill,General,1.0
+conflict resolution,40955,Soft Skill,General,1.0
+supervision,39138,Domain Knowledge,General,0.95
+coaching,38473,Domain Knowledge,General,0.95
+quality control,37857,Domain Knowledge,General,0.95
+merchandising,37578,Domain Knowledge,General,0.95
+paid time off,37267,Noise,Qualification/Benefit,1.0
+verbal communication,37203,Soft Skill,General,1.0
+life insurance,36732,Noise,Qualification/Benefit,1.0
+reporting,36528,Domain Knowledge,General,0.95
+quality assurance,36279,Technical,General,1.0
+decision making,36102,Soft Skill,General,1.0
+computer skills,35665,Technical,General,1.0
+team management,35034,Domain Knowledge,General,0.95
+travel,35025,Domain Knowledge,General,0.95
+accounting,34835,Domain Knowledge,General,0.95
+research,34517,Domain Knowledge,General,0.95
+lifting,33572,Domain Knowledge,General,0.95
+registered nurse,33335,Domain Knowledge,General,0.95
+team leadership,33081,Soft Skill,General,1.0
+driver's license,32168,Noise,Qualification/Benefit,1.0
+negotiation,32151,Soft Skill,General,1.0
+food safety,32115,Domain Knowledge,General,0.95
+dental insurance,31821,Noise,Qualification/Benefit,1.0
+cash handling,31698,Domain Knowledge,General,0.95
+healthcare,30926,Domain Knowledge,General,0.95
+planning,30788,Domain Knowledge,General,0.95
+risk management,30682,Domain Knowledge,General,0.95
+management,30517,Domain Knowledge,General,0.95
+mentoring,30380,Soft Skill,General,1.0
+marketing,29604,Domain Knowledge,General,0.95
+presentation skills,29240,Soft Skill,General,1.0
+health insurance,28688,Noise,Qualification/Benefit,1.0
+engineering,28686,Technical,General,1.0
+supervisory experience,28571,Domain Knowledge,General,0.95
+compliance,28279,Domain Knowledge,General,0.95
+vision insurance,28231,Noise,Qualification/Benefit,1.0
+bls,28107,Certification,Certification,1.0
+valid driver's license,27706,Noise,Qualification/Benefit,1.0
+retail experience,27189,Domain Knowledge,General,0.95
+equal opportunity employer,27068,Noise,Qualification/Benefit,1.0
+confidentiality,26590,Domain Knowledge,General,0.95
+patient education,26586,Domain Knowledge,General,0.95
+prioritization,26409,Domain Knowledge,General,0.95
+microsoft excel,25773,Technical,General,1.0
+professionalism,25429,Soft Skill,General,1.0
+business development,25303,Domain Knowledge,General,0.95
+python,25168,Technical,General,1.0
+data entry,24911,Domain Knowledge,General,0.95
+cpr,24584,Certification,Certification,1.0
+fastpaced environment,24163,Domain Knowledge,General,0.95
+high school diploma or equivalent,23857,Noise,Qualification/Benefit,1.0
+acls,23828,Certification,Certification,1.0
+education,23667,Domain Knowledge,General,0.95
+professional development,23644,Domain Knowledge,General,0.95
+motivation,23307,Soft Skill,General,1.0
+decisionmaking,23232,Domain Knowledge,General,0.95
+high school diploma or ged,23048,Noise,Qualification/Benefit,1.0
+initiative,22690,Soft Skill,General,1.0
+leadership skills,22668,Soft Skill,General,1.0
+retail,22060,Domain Knowledge,General,0.95
+sql,22035,Technical,General,1.0
+bls certification,21979,Certification,Certification,1.0
+physical stamina,21923,Noise,Qualification/Benefit,1.0
+relationship building,21749,Soft Skill,General,1.0
+budget management,21666,Domain Knowledge,General,0.95
+diversity,21586,Domain Knowledge,General,0.95
+product knowledge,21346,Domain Knowledge,General,0.95
+standing,21112,Domain Knowledge,General,0.95
+performance management,21050,Domain Knowledge,General,0.95
+case management,21013,Domain Knowledge,General,0.95
+medication administration,20906,Domain Knowledge,General,0.95
+microsoft word,20522,Domain Knowledge,General,0.95
+maintenance,20149,Domain Knowledge,General,0.95
+teaching,20102,Domain Knowledge,General,0.95
+food preparation,19840,Domain Knowledge,General,0.95
+hiring,19544,Domain Knowledge,General,0.95
+physical strength,19505,Noise,Qualification/Benefit,1.0
+team player,19442,Soft Skill,General,1.0
+medical,19005,Domain Knowledge,General,0.95
+cpr certification,18967,Certification,Certification,1.0
+vision,18764,Noise,Qualification/Benefit,1.0
+bending,18671,Noise,Qualification/Benefit,1.0
+ability to work in a fastpaced environment,18607,Noise,Qualification/Benefit,1.0
+integrity,18547,Soft Skill,General,1.0
+regulatory compliance,18036,Domain Knowledge,General,0.95
+financial analysis,17995,Domain Knowledge,General,0.95
+autocad,17981,Technical,General,1.0
+flexible schedule,17904,Noise,Qualification/Benefit,1.0
+ability to work independently,17824,Noise,Qualification/Benefit,1.0
+finance,17806,Domain Knowledge,General,0.95
+tuition reimbursement,17663,Noise,Qualification/Benefit,1.0
+walking,17662,Noise,Qualification/Benefit,1.0
+team work,17649,Domain Knowledge,General,0.95
+continuing education,17435,Certification,Certification,1.0
+empathy,17387,Soft Skill,General,1.0
+compassion,17335,Soft Skill,General,1.0
+cleaning,17295,Domain Knowledge,General,0.95
+networking,17065,Domain Knowledge,General,0.95
+word,17060,Technical,General,1.0
+401k,16858,Noise,Qualification/Benefit,1.0
+electrical engineering,16807,Technical,General,1.0
+master's degree,16685,Noise,Qualification/Benefit,1.0
+innovation,16613,Soft Skill,General,1.0
+assessment,16590,Domain Knowledge,General,0.95
+medical terminology,16545,Domain Knowledge,General,0.95
+counseling,16534,Domain Knowledge,General,0.95
+quality improvement,16430,Domain Knowledge,General,0.95
+paid holidays,16309,Noise,Qualification/Benefit,1.0
+manufacturing,16306,Domain Knowledge,General,0.95
+employee assistance program,16290,Noise,Qualification/Benefit,1.0
+financial reporting,16277,Technical,General,1.0
+dental,16185,Domain Knowledge,General,0.95
+continuous improvement,16172,Domain Knowledge,General,0.95
+account management,16083,Domain Knowledge,General,0.95
+forecasting,16069,Technical,General,1.0
+strategic planning,15943,Domain Knowledge,General,0.95
+powerpoint,15846,Technical,General,1.0
+sanitation,15822,Domain Knowledge,General,0.95
+selfmotivation,15797,Domain Knowledge,General,0.95
+inventory control,15761,Domain Knowledge,General,0.95
+401(k),15738,Domain Knowledge,General,0.95
+civil engineering,15735,Technical,General,1.0
+change management,15663,Domain Knowledge,General,0.95
+construction management,15577,Domain Knowledge,General,0.95
+process improvement,15405,Domain Knowledge,General,0.95
+mechanical engineering,15372,Technical,General,1.0
+diversity and inclusion,15282,Domain Knowledge,General,0.95
+weekly pay,15211,Noise,Qualification/Benefit,1.0
+background check,15163,Noise,Qualification/Benefit,1.0
+medical benefits,15124,Noise,Qualification/Benefit,1.0
+team collaboration,15103,Soft Skill,General,1.0
+team building,15033,Soft Skill,General,1.0
+evaluation,14934,Domain Knowledge,General,0.95
+positive attitude,14856,Soft Skill,General,1.0
+training and development,14798,Domain Knowledge,General,0.95
+inclusion,14738,Soft Skill,General,1.0
+accuracy,14681,Domain Knowledge,General,0.95
+construction,14626,Domain Knowledge,General,0.95
+development,14560,Domain Knowledge,General,0.95
+customer service skills,14532,Domain Knowledge,General,0.95
+infection control,14319,Domain Knowledge,General,0.95
+sap,14058,Technical,General,1.0
+java,13891,Technical,General,1.0
+retail management,13860,Domain Knowledge,General,0.95
+dental benefits,13847,Noise,Qualification/Benefit,1.0
+social work,13748,Domain Knowledge,General,0.95
+rn,13714,Domain Knowledge,General,0.95
+technical writing,13512,Technical,General,1.0
+financial management,13430,Domain Knowledge,General,0.95
+rn license,13387,Certification,Certification,1.0
+english,13379,Language,Language,1.0
+hospitality,13278,Domain Knowledge,General,0.95
+ethics,13246,Domain Knowledge,General,0.95
+travel nursing,13076,Domain Knowledge,General,0.95
+report writing,12811,Domain Knowledge,General,0.95
+medical insurance,12800,Noise,Qualification/Benefit,1.0
+aws,12738,Technical,General,1.0
+security,12684,Domain Knowledge,General,0.95
+outlook,12664,Technical,General,1.0
+vision benefits,12651,Noise,Qualification/Benefit,1.0
+time management skills,12650,Domain Knowledge,General,0.95
+ability to work under pressure,12636,Noise,Qualification/Benefit,1.0
+ms office,12538,Technical,General,1.0
+delegation,12237,Soft Skill,General,1.0
+radiology,12100,Domain Knowledge,General,0.95
+patient assessment,11962,Domain Knowledge,General,0.95
+detailoriented,11953,Domain Knowledge,General,0.95
+computer science,11941,Technical,General,1.0
+writing,11905,Domain Knowledge,General,0.95
+risk assessment,11850,Domain Knowledge,General,0.95
+human resources,11841,Domain Knowledge,General,0.95
+driving,11820,Noise,Qualification/Benefit,1.0
+independent work,11682,Noise,Qualification/Benefit,1.0
+reaching,11678,Noise,Qualification/Benefit,1.0
+creativity,11671,Soft Skill,General,1.0
+english proficiency,11599,Language,Language,1.0
+recruitment,11591,Domain Knowledge,General,0.95
+agile,11511,Domain Knowledge,General,0.95
+physical fitness,11500,Noise,Qualification/Benefit,1.0
+stooping,11442,Noise,Qualification/Benefit,1.0
+coordination,11421,Soft Skill,General,1.0
+stress management,11410,Soft Skill,General,1.0
+data collection,11399,Technical,General,1.0
+first aid,11294,Domain Knowledge,General,0.95
+mathematical calculations,11241,Technical,General,1.0
+treatment planning,11220,Domain Knowledge,General,0.95
+equipment maintenance,11169,Domain Knowledge,General,0.95
+computer literacy,11148,Technical,General,1.0
+ability to work independently and as part of a team,11001,Domain Knowledge,General,0.95
+disability insurance,10966,Noise,Qualification/Benefit,1.0
+pals,10965,Certification,Certification,1.0
+oral communication,10878,Soft Skill,General,1.0
+referral bonus,10875,Noise,Qualification/Benefit,1.0
+design,10866,Domain Knowledge,General,0.95
+public speaking,10755,Soft Skill,General,1.0
+physical demands,10724,Noise,Qualification/Benefit,1.0
+psychology,10684,Domain Knowledge,General,0.95
+analytical thinking,10501,Soft Skill,General,1.0
+software development,10445,Technical,General,1.0
+401(k) plan,10438,Domain Knowledge,General,0.95
+record keeping,10371,Domain Knowledge,General,0.95
+data management,10282,Technical,General,1.0
+registered nurse (rn),10228,Domain Knowledge,General,0.95
+client relations,10215,Soft Skill,General,1.0
+retail operations,10184,Domain Knowledge,General,0.95
+loss prevention,10151,Domain Knowledge,General,0.95
+customer relationship management,10123,Domain Knowledge,General,0.95
+mental health,10117,Domain Knowledge,General,0.95
+kneeling,10072,Noise,Qualification/Benefit,1.0
+remote work,10025,Noise,Qualification/Benefit,1.0

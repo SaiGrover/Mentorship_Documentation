@@ -1,0 +1,115 @@
+skill,linkedin_frequency,sub_category,confidence
+data analysis,81964,Data Analytics,1.0
+excel,41498,Data Analytics,1.0
+quality assurance,36279,Software Engineering,1.0
+microsoft excel,25773,Data Analytics,1.0
+python,25168,Programming,1.0
+sql,22035,Database,1.0
+electrical engineering,16807,Engineering_Systems,1.0
+mechanical engineering,15372,Engineering_Systems,1.0
+java,13891,Programming,1.0
+aws,12738,Cloud,1.0
+agile,11511,Software Engineering,1.0
+software development,10445,Software Engineering,1.0
+testing,9976,Software Engineering,1.0
+machine learning,9787,AI_ML,1.0
+javascript,9451,Programming,1.0
+automation,9324,Software Engineering,1.0
+data analytics,8686,Data Analytics,1.0
+data visualization,8414,Data Analytics,1.0
+software engineering,8245,Software Engineering,1.0
+linux,7868,DevOps,1.0
+cloud computing,7487,Cloud,1.0
+azure,7264,Cloud,1.0
+tableau,7027,Data Analytics,1.0
+jira,7011,Tools_Platforms,1.0
+kubernetes,6711,DevOps,1.0
+c++,6654,Programming,1.0
+devops,6312,DevOps,1.0
+docker,6254,DevOps,1.0
+statistics,6146,Data Analytics,1.0
+statistical analysis,6108,Data Analytics,1.0
+git,5909,DevOps,1.0
+oracle,5475,Database,1.0
+power bi,5429,Data Analytics,1.0
+sharepoint,5344,Tools_Platforms,1.0
+ms excel,5280,Data Analytics,1.0
+programming,5271,Programming,1.0
+business intelligence,4859,Data Analytics,1.0
+databases,4829,Database,0.94
+data science,4816,AI_ML,1.0
+c#,4723,Programming,1.0
+database management,4593,Database,1.0
+systems engineering,4526,Engineering_Systems,1.0
+artificial intelligence,4480,AI_ML,1.0
+cybersecurity,4190,Cybersecurity,1.0
+agile development,4183,Software Engineering,1.0
+information technology,4115,Tools_Platforms,1.0
+robotics,3872,Engineering_Systems,1.0
+react,3640,Programming,1.0
+matlab,3549,Programming,1.0
+gcp,3491,Cloud,1.0
+unit testing,3483,Software Engineering,1.0
+data modeling,3445,Database,1.0
+jenkins,3371,DevOps,1.0
+microservices,3353,Software Engineering,1.0
+nosql,3237,Database,1.0
+typescript,3199,Programming,1.0
+terraform,2947,DevOps,1.0
+ci/cd,2934,DevOps,1.0
+confluence,2896,Tools_Platforms,1.0
+coding,2825,Programming,1.0
+sql server,2825,Database,1.0
+data engineering,2700,Data Engineering,1.0
+network security,2689,Cybersecurity,1.0
+angular,2625,Programming,1.0
+information security,2609,Cybersecurity,1.0
+computer engineering,2541,Engineering_Systems,1.0
+electronics,2524,Engineering_Systems,1.0
+system design,2352,Software Engineering,1.0
+mysql,2331,Database,1.0
+node.js,2281,Programming,1.0
+software testing,2243,Software Engineering,1.0
+data governance,2228,Data Engineering,1.0
+agile methodologies,2217,Software Engineering,0.95
+agile methodology,2177,Software Engineering,0.95
+hadoop,2138,Data Engineering,1.0
+unix,2101,DevOps,1.0
+big data,1994,Data Engineering,1.0
+cyber security,1969,Cybersecurity,0.96
+plc programming,1956,Programming,0.95
+microsoft azure,1926,Cloud,1.0
+continuous integration,1845,DevOps,1.0
+programming languages,1842,Programming,0.95
+c/c++,1834,Programming,0.95
+etl,1811,Data Engineering,1.0
+github,1748,DevOps,1.0
+database,1705,Database,1.0
+snowflake,1704,Database,1.0
+postgresql,1614,Database,1.0
+objectoriented programming,1608,Programming,0.95
+deep learning,1552,AI_ML,1.0
+apis,1547,Software Engineering,1.0
+php,1547,Programming,1.0
+mongodb,1525,Database,1.0
+integration testing,1466,Software Engineering,0.95
+pytorch,1453,AI_ML,1.0
+azure devops,1442,Cloud,0.95
+api,1389,Software Engineering,1.0
+data architecture,1373,Data Engineering,1.0
+computer vision,1361,AI_ML,1.0
+embedded systems,1358,Engineering_Systems,1.0
+tensorflow,1331,AI_ML,1.0
+system testing,1155,Software Engineering,0.95
+google cloud,1148,Cloud,1.0
+data pipelines,1144,Data Engineering,1.0
+agile practices,1140,Software Engineering,0.95
+cloud security,1094,Cybersecurity,1.0
+natural language processing,1090,AI_ML,1.0
+golang,1078,Programming,1.0
+a/b testing,1047,Software Engineering,0.95
+gitlab,1044,DevOps,1.0
+advanced excel,1031,Data Analytics,0.95
+performance testing,1021,Software Engineering,0.95
+penetration testing,1012,Cybersecurity,1.0
+nosql databases,1009,Database,0.95
