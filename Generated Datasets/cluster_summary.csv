@@ -1,0 +1,5 @@
+cluster,linkedin_demand,salary_premium,current_usage,future_interest,global_adoption_score,growth_rate
+0,0.042,0.82,0.301,0.6,0.512,0.635
+1,0.043,0.622,0.386,0.311,0.632,0.2
+2,0.075,0.447,0.248,0.251,0.633,0.532
+3,0.261,0.579,0.796,0.632,0.802,0.282

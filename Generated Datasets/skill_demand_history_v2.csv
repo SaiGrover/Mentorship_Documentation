@@ -1,0 +1,1202 @@
+skill,year,demand
+java,2011,862
+java,2012,2349
+ios,2016,4498
+objective-c,2016,3202
+android,2016,8601
+arduino / raspberry pi,2016,3797
+angularjs,2016,8823
+c++,2016,9589
+c#,2016,15283
+cassandra,2016,663
+coffeescript,2016,1662
+cordova,2016,1651
+clojure,2016,556
+cloud (aws,2016,4629
+gae,2016,4629
+microsoft azure,2016,4629
+etc.),2016,4629
+dart,2016,222
+f#,2016,484
+go,2016,1547
+hadoop,2016,1012
+haskell,2016,813
+java,2016,17942
+javascript,2016,27385
+lamp,2016,4821
+matlab,2016,1602
+mongodb,2016,4780
+node.js,2016,8509
+perl,2016,1624
+php,2016,12780
+python,2016,12282
+reactjs,2016,2541
+redis,2016,2862
+ruby,2016,4383
+rust,2016,436
+salesforce,2016,665
+scala,2016,1602
+sharepoint,2016,853
+spark,2016,707
+sql,2016,21976
+microsoft sql server,2016,9306
+swift,2016,2746
+visual basic,2016,3312
+windows phone,2016,1123
+wordpress,2016,4496
+swift,2017,2368
+javascript,2017,22875
+python,2017,11704
+ruby,2017,3324
+sql,2017,18754
+java,2017,14524
+php,2017,10290
+matlab,2017,1569
+rust,2017,416
+coffeescript,2017,1192
+clojure,2017,391
+elixir,2017,380
+erlang,2017,281
+haskell,2017,649
+c#,2017,12476
+objective-c,2017,2349
+c++,2017,8155
+assembly,2017,1823
+vb.net,2017,2273
+perl,2017,1585
+scala,2017,1309
+f#,2017,457
+typescript,2017,3488
+lua,2017,1039
+vba,2017,1574
+groovy,2017,1193
+go,2017,1557
+smalltalk,2017,327
+visual basic 6,2017,1071
+common lisp,2017,273
+dart,2017,145
+julia,2017,138
+hack,2017,107
+.net core,2017,6763
+react,2017,3953
+angularjs,2017,8962
+node.js,2017,9522
+cordova,2017,2232
+hadoop,2017,1148
+spark,2017,953
+firebase,2017,1979
+xamarin,2017,1675
+mysql,2017,16375
+sqlite,2017,7838
+mongodb,2017,6192
+redis,2017,4143
+microsoft sql server,2017,11358
+postgresql,2017,7815
+oracle,2017,4874
+cassandra,2017,906
+ios,2017,4782
+amazon web services (aws),2017,8183
+windows desktop,2017,11949
+linux desktop,2017,9593
+mac os,2017,5363
+android,2017,8211
+microsoft azure,2017,3327
+windows phone,2017,1124
+raspberry pi,2017,4676
+wordpress,2017,4537
+arduino,2017,2986
+serverless,2017,606
+sharepoint,2017,1083
+mainframe,2017,404
+salesforce,2017,762
+javascript,2018,54686
+python,2018,30359
+html,2018,53628
+css,2018,50979
+bash/shell,2018,31172
+c#,2018,26954
+sql,2018,49873
+typescript,2018,13626
+c++,2018,19872
+java,2018,35521
+matlab,2018,4564
+assembly,2018,5760
+coffeescript,2018,2603
+erlang,2018,886
+go,2018,5532
+lua,2018,2733
+ruby,2018,7911
+php,2018,24071
+vb.net,2018,5254
+swift,2018,6310
+groovy,2018,3373
+kotlin,2018,3508
+objective-c,2018,5510
+scala,2018,3420
+f#,2018,1115
+haskell,2018,1961
+rust,2018,1857
+julia,2018,430
+vba,2018,3810
+perl,2018,3280
+cobol,2018,590
+visual basic 6,2018,3087
+delphi/object pascal,2018,2025
+hack,2018,254
+clojure,2018,1032
+ocaml,2018,470
+redis,2018,11944
+microsoft sql server,2018,27293
+mysql,2018,38909
+postgresql,2018,21776
+amazon rds/aurora,2018,3388
+microsoft azure (tables,2018,5203
+cosmosdb,2018,5203
+etc),2018,5203
+memcached,2018,3615
+oracle,2018,7376
+ibm db2,2018,1677
+mongodb,2018,17183
+google cloud storage,2018,3634
+amazon dynamodb,2018,3454
+apache hbase,2018,1107
+apache hive,2018,1438
+amazon redshift,2018,1464
+elasticsearch,2018,9312
+mariadb,2018,8853
+sqlite,2018,13036
+google bigquery,2018,1384
+cassandra,2018,2444
+neo4j,2018,1572
+aws,2018,15927
+microsoft azure,2018,7267
+linux,2018,31859
+firebase,2018,9575
+arduino,2018,7006
+windows desktop or server,2018,23393
+heroku,2018,6913
+amazon echo,2018,1938
+ios,2018,10201
+mac os,2018,11822
+serverless,2018,2987
+android,2018,19157
+wordpress,2018,10486
+drupal,2018,2010
+google cloud platform/app engine,2018,5302
+raspberry pi,2018,10509
+sharepoint,2018,1766
+ibm cloud or watson,2018,950
+mainframe,2018,533
+apple watch or apple tv,2018,1266
+esp8266,2018,1466
+gaming console,2018,850
+predix,2018,110
+windows phone,2018,1800
+salesforce,2018,1457
+google home,2018,892
+django,2018,6723
+react,2018,14337
+angular,2018,19023
+node.js,2018,25598
+hadoop,2018,2447
+spark,2018,2475
+spring,2018,9079
+.net core,2018,14026
+cordova,2018,4369
+xamarin,2018,3796
+tensorflow,2018,4026
+pytorch,2018,868
+html/css,2019,55466
+java,2019,35917
+javascript,2019,59219
+python,2019,36443
+c++,2019,20524
+c#,2019,27097
+sql,2019,47544
+vba,2019,4781
+bash/shell/powershell,2019,31991
+ruby,2019,7331
+rust,2019,2794
+typescript,2019,18523
+webassembly,2019,1015
+other(s):,2019,23864
+go,2019,7201
+php,2019,23030
+assembly,2019,5833
+kotlin,2019,5620
+swift,2019,5744
+objective-c,2019,4191
+elixir,2019,1260
+erlang,2019,777
+clojure,2019,1254
+f#,2019,973
+scala,2019,3309
+dart,2019,1683
+sqlite,2019,23713
+postgresql,2019,25758
+mysql,2019,40537
+couchbase,2019,1517
+mongodb,2019,19100
+oracle,2019,12353
+cassandra,2019,2597
+elasticsearch,2019,10720
+redis,2019,13971
+dynamodb,2019,4629
+microsoft sql server,2019,24590
+firebase,2019,9612
+mariadb,2019,12401
+macos,2019,17806
+windows,2019,40630
+linux,2019,42753
+android,2019,21639
+slack,2019,16723
+google cloud,2019,9928
+aws,2019,21304
+docker,2019,25212
+heroku,2019,8527
+ibm cloud or watson,2019,1514
+ios,2019,10446
+microsoft azure,2019,9528
+wordpress,2019,11595
+arduino,2019,8543
+raspberry pi,2019,12183
+kubernetes,2019,6835
+django,2019,8249
+flask,2019,7694
+express,2019,12522
+jquery,2019,30981
+react,2019,19877
+spring,2019,10298
+ruby on rails,2019,5225
+angular/angular.js,2019,19532
+asp.net,2019,16699
+vue.js,2019,9671
+laravel,2019,6679
+drupal,2019,2195
+node.js,2019,29207
+.net,2019,21889
+cordova,2019,4147
+hadoop,2019,2856
+pandas,2019,7447
+unity 3d,2019,6627
+pytorch,2019,1922
+ansible,2019,5504
+chef,2019,1476
+tensorflow,2019,6009
+xamarin,2019,3810
+.net core,2019,13875
+react native,2019,6133
+puppet,2019,1557
+apache spark,2019,3394
+unreal engine,2019,2055
+flutter,2019,2010
+cryengine,2019,344
+c#,2020,18041
+html/css,2020,36181
+javascript,2020,38822
+swift,2020,3397
+objective-c,2020,2340
+python,2020,25287
+ruby,2020,4046
+sql,2020,31413
+java,2020,23074
+php,2020,15007
+typescript,2020,14578
+bash/shell/powershell,2020,18980
+kotlin,2020,4468
+vba,2020,3499
+perl,2020,1796
+scala,2020,2052
+c++,2020,13707
+go,2020,5038
+haskell,2020,1222
+rust,2020,2929
+dart,2020,2280
+julia,2020,519
+assembly,2020,3553
+elasticsearch,2020,6817
+microsoft sql server,2020,16336
+oracle,2020,8155
+mysql,2020,27559
+postgresql,2020,17892
+redis,2020,9056
+sqlite,2020,15434
+mariadb,2020,8312
+firebase,2020,7128
+mongodb,2020,13086
+ibm db2,2020,1421
+dynamodb,2020,3497
+cassandra,2020,1654
+couchbase,2020,937
+windows,2020,28595
+ios,2020,6562
+aws,2020,14389
+docker,2020,18851
+linux,2020,29600
+macos,2020,12898
+android,2020,14101
+wordpress,2020,7654
+raspberry pi,2020,8010
+heroku,2020,5974
+google cloud,2020,7569
+kubernetes,2020,6178
+arduino,2020,5712
+slack apps and integrations,2020,3922
+microsoft azure,2020,7830
+ibm cloud or watson,2020,876
+asp.net,2020,9258
+asp.net core,2020,8082
+ruby on rails,2020,2944
+flask,2020,6005
+jquery,2020,18316
+angular,2020,10617
+angular.js,2020,6826
+django,2020,6014
+react,2020,15167
+vue.js,2020,7322
+gatsby,2020,1703
+spring,2020,6941
+express,2020,8961
+symfony,2020,1851
+laravel,2020,4680
+drupal,2020,1369
+.net,2020,14144
+.net core,2020,10755
+react native,2020,4626
+ansible,2020,2955
+pandas,2020,6253
+node.js,2020,20741
+unity 3d,2020,4413
+tensorflow,2020,4652
+pytorch,2020,1872
+teraform,2020,2518
+unreal engine,2020,1316
+hadoop,2020,1798
+flutter,2020,2897
+cordova,2020,2419
+xamarin,2020,2357
+keras,2020,2504
+chef,2020,733
+apache spark,2020,2089
+puppet,2020,945
+c++,2021,20057
+html/css,2021,46259
+javascript,2021,53587
+objective-c,2021,2310
+php,2021,18130
+swift,2021,4204
+python,2021,39792
+assembly,2021,4632
+rust,2021,5799
+typescript,2021,24909
+bash/shell,2021,22385
+sql,2021,38835
+c#,2021,22984
+java,2021,29162
+node.js,2021,27975
+powershell,2021,8871
+ruby,2021,5569
+perl,2021,2028
+matlab,2021,3846
+kotlin,2021,6866
+julia,2021,1068
+haskell,2021,1749
+delphi,2021,1731
+go,2021,7879
+scala,2021,2148
+dart,2021,4965
+vba,2021,3847
+groovy,2021,2479
+clojure,2021,1552
+apl,2021,536
+lisp,2021,1096
+f#,2021,804
+elixir,2021,1438
+erlang,2021,651
+crystal,2021,466
+cobol,2021,437
+postgresql,2021,28424
+sqlite,2021,22634
+elasticsearch,2021,9331
+redis,2021,14552
+mysql,2021,35289
+microsoft sql server,2021,18896
+oracle,2021,8868
+mongodb,2021,19479
+mariadb,2021,12088
+dynamodb,2021,5137
+couchbase,2021,1106
+firebase,2021,11373
+cassandra,2021,1873
+ibm db2,2021,1438
+heroku,2021,12897
+microsoft azure,2021,16540
+aws,2021,29138
+google cloud,2021,16687
+digitalocean,2021,9495
+oracle cloud infrastructure,2021,1014
+ibm cloud or watson,2021,1373
+laravel,2021,6377
+symfony,2021,2427
+angular,2021,14471
+flask,2021,10174
+vue.js,2021,11954
+jquery,2021,21693
+express,2021,15010
+react,2021,25296
+angular.js,2021,7242
+ruby on rails,2021,4438
+django,2021,9446
+fastapi,2021,2447
+asp.net core,2021,11404
+spring,2021,9177
+svelte,2021,1735
+asp.net,2021,9918
+gatsby,2021,2501
+drupal,2021,1508
+cordova,2021,3491
+numpy,2021,16445
+pandas,2021,13664
+tensorflow,2021,8034
+pytorch,2021,4808
+apache spark,2021,2833
+hadoop,2021,2155
+keras,2021,4930
+.net core / .net 5,2021,15310
+qt,2021,4812
+flutter,2021,6586
+.net framework,2021,16620
+react native,2021,7051
+docker,2021,35644
+git,2021,68171
+yarn,2021,12937
+kubernetes,2021,12115
+unity 3d,2021,7206
+terraform,2021,5442
+flow,2021,929
+unreal engine,2021,2339
+ansible,2021,5607
+deno,2021,1027
+puppet,2021,1313
+xamarin,2021,2844
+chef,2021,982
+pulumi,2021,368
+javascript,2022,46443
+typescript,2022,24752
+c#,2022,19883
+c++,2022,16024
+html/css,2022,39142
+python,2022,34155
+sql,2022,35127
+swift,2022,3489
+lua,2022,2867
+php,2022,14827
+java,2022,23644
+delphi,2022,2311
+bash/shell,2022,20656
+powershell,2022,8575
+rust,2022,6625
+elixir,2022,1528
+erlang,2022,641
+ruby,2022,4299
+scala,2022,1837
+vba,2022,3185
+dart,2022,4648
+go,2022,7922
+kotlin,2022,6507
+groovy,2022,2357
+matlab,2022,2913
+perl,2022,1644
+haskell,2022,1577
+julia,2022,1084
+lisp,2022,932
+assembly,2022,3887
+f#,2022,730
+clojure,2022,1070
+apl,2022,504
+crystal,2022,340
+fortran,2022,646
+objective-c,2022,1698
+sas,2022,435
+ocaml,2022,422
+solidity,2022,1031
+cobol,2022,464
+microsoft sql server,2022,16355
+cloud firestore,2022,4535
+elasticsearch,2022,7430
+firebase realtime database,2022,5309
+mongodb,2022,17228
+mysql,2022,28520
+couchbase,2022,807
+couchdb,2022,783
+postgresql,2022,26538
+redis,2022,13471
+dynamodb,2022,5029
+neo4j,2022,1291
+sqlite,2022,19487
+cassandra,2022,1617
+mariadb,2022,10912
+oracle,2022,6994
+ibm db2,2022,1219
+firebase,2022,10751
+microsoft azure,2022,14604
+aws,2022,25939
+google cloud,2022,13634
+heroku,2022,10160
+digitalocean,2022,7953
+vmware,2022,4429
+ovh,2022,1913
+linode,2022,1994
+managed hosting,2022,2927
+ibm cloud or watson,2022,853
+oracle cloud infrastructure,2022,1110
+openstack,2022,1029
+colocation,2022,642
+angular.js,2022,4912
+asp.net,2022,8139
+asp.net core,2022,10155
+angular,2022,11138
+jquery,2022,15602
+node.js,2022,25733
+next.js,2022,7386
+react,2022,23277
+svelte,2022,2500
+vue.js,2022,10278
+express,2022,12557
+phoenix,2022,1164
+ruby on rails,2022,3182
+django,2022,8002
+flask,2022,7994
+laravel,2022,5159
+fastapi,2022,3289
+gatsby,2022,1889
+nuxt.js,2022,2089
+drupal,2022,1211
+symfony,2022,1955
+blazor,2022,2438
+fastify,2022,1008
+deno,2022,925
+play framework,2022,450
+pandas,2022,11506
+.net,2022,15850
+keras,2022,3333
+numpy,2022,13144
+scikit-learn,2022,5776
+tensorflow,2022,5942
+pytorch,2022,3952
+hugging face transformers,2022,925
+apache kafka,2022,4748
+apache spark,2022,2298
+tidyverse,2022,996
+electron,2022,4390
+react native,2022,5765
+spring,2022,7399
+flutter,2022,5799
+qt,2022,3906
+xamarin,2022,2388
+capacitor,2022,1142
+cordova,2022,1903
+ionic,2022,2417
+hadoop,2022,1581
+gtk,2022,1380
+uno platform,2022,334
+npm,2022,35778
+homebrew,2022,14420
+docker,2022,34981
+terraform,2022,6160
+kubernetes,2022,12624
+yarn,2022,15175
+ansible,2022,5210
+unity 3d,2022,5840
+puppet,2022,1025
+flow,2022,444
+unreal engine,2022,2180
+chef,2022,828
+pulumi,2022,461
+html/css,2023,46396
+javascript,2023,55711
+python,2023,43158
+bash/shell (all shells),2023,28351
+go,2023,11592
+php,2023,16274
+ruby,2023,5454
+sql,2023,42623
+typescript,2023,34041
+ada,2023,677
+clojure,2023,1105
+elixir,2023,2028
+java,2023,26757
+lisp,2023,1342
+ocaml,2023,614
+raku,2023,156
+scala,2023,2422
+swift,2023,4072
+zig,2023,729
+rust,2023,11427
+c#,2023,24193
+powershell,2023,11902
+c++,2023,19634
+kotlin,2023,7935
+solidity,2023,1168
+perl,2023,2151
+dart,2023,5273
+haskell,2023,1829
+assembly,2023,4753
+delphi,2023,2831
+lua,2023,5336
+matlab,2023,3339
+vba,2023,3107
+visual basic (.net),2023,3568
+julia,2023,1010
+f#,2023,849
+groovy,2023,2976
+apl,2023,225
+objective-c,2023,2019
+gdscript,2023,1495
+crystal,2023,389
+cobol,2023,576
+fortran,2023,833
+prolog,2023,776
+erlang,2023,868
+apex,2023,579
+sas,2023,427
+nim,2023,331
+flow,2023,214
+supabase,2023,2122
+postgresql,2023,34909
+redis,2023,15639
+bigquery,2023,3456
+elasticsearch,2023,10263
+mongodb,2023,19556
+cloud firestore,2023,4901
+mariadb,2023,13495
+microsoft sql server,2023,19506
+mysql,2023,31489
+sqlite,2023,23678
+dynamodb,2023,6798
+cosmos db,2023,2672
+cassandra,2023,1927
+h2,2023,2808
+oracle,2023,7507
+datomic,2023,244
+influxdb,2023,2091
+firebase realtime database,2023,4939
+microsoft access,2023,3257
+firebird,2023,1152
+ibm db2,2023,1414
+solr,2023,1189
+cockroachdb,2023,795
+snowflake,2023,1820
+couch db,2023,887
+ravendb,2023,227
+neo4j,2023,1432
+clickhouse,2023,849
+duckdb,2023,469
+tidb,2023,157
+couchbase,2023,598
+amazon web services (aws),2023,33818
+netlify,2023,6228
+vercel,2023,7431
+google cloud,2023,16592
+openstack,2023,1076
+vmware,2023,4964
+vultr,2023,1357
+cloudflare,2023,10599
+heroku,2023,8358
+firebase,2023,10761
+digital ocean,2023,9299
+fly.io,2023,1649
+microsoft azure,2023,18105
+render,2023,1287
+hetzner,2023,3069
+openshift,2023,1671
+ovh,2023,2378
+managed hosting,2023,2379
+oracle cloud infrastructure (oci),2023,1810
+linode,2023,2755
+now akamai,2023,2755
+colocation,2023,497
+scaleway,2023,628
+ibm cloud or watson,2023,801
+next.js,2023,11972
+react,2023,29137
+remix,2023,912
+vue.js,2023,11758
+node.js,2023,30626
+ruby on rails,2023,3940
+wordpress,2023,9604
+express,2023,13843
+gatsby,2023,1675
+nestjs,2023,3681
+angular,2023,12537
+angularjs,2023,5176
+jquery,2023,15784
+phoenix,2023,1468
+solid.js,2023,979
+svelte,2023,4753
+asp.net core,2023,11896
+flask,2023,8734
+elm,2023,580
+nuxt.js,2023,2652
+fastify,2023,1474
+spring boot,2023,8583
+laravel,2023,5440
+fastapi,2023,5325
+symfony,2023,2301
+django,2023,8238
+deno,2023,1697
+asp.net,2023,9185
+blazor,2023,3501
+codeigniter,2023,1238
+drupal,2023,1343
+qwik,2023,389
+play framework,2023,545
+lit,2023,490
+electron,2023,4685
+react native,2023,5667
+tauri,2023,1516
+rabbitmq,2023,6942
+spring framework,2023,7460
+numpy,2023,13614
+pandas,2023,12756
+scikit-learn,2023,6339
+tensorflow,2023,6405
+.net (5+),2023,17005
+.net framework (1.0 - 4.8),2023,11452
+apache kafka,2023,5984
+flutter,2023,6132
+gtk,2023,1690
+hugging face transformers,2023,1852
+capacitor,2023,1127
+mfc,2023,671
+opengl,2023,4664
+qt,2023,4401
+xamarin,2023,2233
+cuda,2023,3042
+pytorch,2023,5884
+jax,2023,641
+keras,2023,2839
+opencv,2023,5455
+apache spark,2023,2748
+hadoop,2023,1539
+ionic,2023,1948
+.net maui,2023,1573
+swiftui,2023,2643
+quarkus,2023,763
+micronaut,2023,441
+ktor,2023,740
+tidyverse,2023,1045
+cordova,2023,1616
+uno platform,2023,357
+docker,2023,41369
+kubernetes,2023,15260
+npm,2023,39609
+pip,2023,23281
+vite,2023,11807
+webpack,2023,16665
+yarn,2023,17545
+cargo,2023,10409
+make,2023,16161
+nix,2023,1647
+homebrew,2023,17647
+pnpm,2023,5036
+terraform,2023,9068
+bun,2023,620
+chocolatey,2023,6509
+maven (build tool),2023,12109
+ansible,2023,6921
+msbuild,2023,8520
+nuget,2023,12235
+visual studio solution,2023,11751
+gradle,2023,11961
+chef,2023,758
+cmake,2023,11506
+gnu gcc,2023,10038
+ant,2023,2371
+wasmer,2023,431
+boost.test,2023,342
+podman,2023,3129
+apt,2023,5780
+llvm's clang,2023,5959
+composer,2023,6266
+bandit,2023,362
+doctest,2023,393
+msvc,2023,3666
+unity 3d,2023,5561
+dagger,2023,866
+unreal engine,2023,2482
+cppunit,2023,346
+google test,2023,2146
+pacman,2023,5280
+godot,2023,2478
+ninja,2023,2928
+meson,2023,1052
+qmake,2023,983
+catch2,2023,663
+puppet,2023,900
+build2,2023,159
+pulumi,2023,659
+scons,2023,378
+tunit,2023,69
+elfspy,2023,51
+lest,2023,55
+cute,2023,54
+snitch,2023,55
+liblittletest,2023,37
+bash/shell (all shells),2024,20412
+go,2024,8103
+html/css,2024,31816
+java,2024,18239
+javascript,2024,37492
+python,2024,30719
+typescript,2024,23150
+c#,2024,16318
+c++,2024,13827
+php,2024,10951
+powershell,2024,8328
+sql,2024,30682
+lua,2024,3728
+rust,2024,7559
+swift,2024,2829
+ruby,2024,3147
+delphi,2024,1073
+vba,2024,2248
+visual basic (.net),2024,2499
+f#,2024,512
+clojure,2024,737
+scala,2024,1547
+perl,2024,1482
+matlab,2024,2378
+ocaml,2024,458
+assembly,2024,3233
+dart,2024,3594
+fortran,2024,665
+julia,2024,684
+crystal,2024,253
+kotlin,2024,5665
+lisp,2024,889
+prolog,2024,486
+haskell,2024,1193
+ada,2024,542
+elixir,2024,1243
+erlang,2024,522
+groovy,2024,2004
+zig,2024,667
+gdscript,2024,1402
+micropython,2024,942
+objective-c,2024,1283
+cobol,2024,413
+nim,2024,210
+apex,2024,502
+solidity,2024,644
+zephyr,2024,184
+dynamodb,2024,4138
+mongodb,2024,13007
+postgresql,2024,25536
+firebase realtime database,2024,3018
+mysql,2024,21099
+sqlite,2024,17365
+cloud firestore,2024,2842
+supabase,2024,3845
+redis,2024,10463
+elasticsearch,2024,6533
+microsoft access,2024,2193
+microsoft sql server,2024,13275
+mariadb,2024,8991
+oracle,2024,5273
+snowflake,2024,1364
+presto,2024,323
+databricks sql,2024,1003
+duckdb,2024,710
+cassandra,2024,1268
+h2,2024,2006
+neo4j,2024,998
+cosmos db,2024,1746
+bigquery,2024,2531
+firebird,2024,563
+clickhouse,2024,890
+influxdb,2024,1338
+ibm db2,2024,914
+solr,2024,766
+eventstoredb,2024,162
+ravendb,2024,159
+couch db,2024,534
+cockroachdb,2024,507
+couchbase,2024,353
+tidb,2024,127
+datomic,2024,184
+amazon web services (aws),2024,22191
+heroku,2024,3798
+netlify,2024,3238
+google cloud,2024,11605
+fly.io,2024,1189
+cloudflare,2024,6974
+firebase,2024,6443
+vercel,2024,5491
+digital ocean,2024,5409
+hetzner,2024,2301
+vmware,2024,3043
+microsoft azure,2024,12850
+databricks,2024,918
+oracle cloud infrastructure (oci),2024,1332
+pythonanywhere,2024,892
+render,2024,1305
+managed hosting,2024,1386
+openshift,2024,1120
+ovh,2024,1397
+ibm cloud or watson,2024,506
+alibaba cloud,2024,548
+vultr,2024,798
+colocation,2024,307
+linode,2024,1425
+now akamai,2024,1425
+scaleway,2024,396
+openstack,2024,716
+express,2024,8614
+next.js,2024,8681
+node.js,2024,19772
+react,2024,19167
+asp.net core,2024,8187
+jquery,2024,10381
+wordpress,2024,5711
+ruby on rails,2024,2294
+asp.net,2024,6265
+codeigniter,2024,812
+blazor,2024,2378
+django,2024,5835
+angularjs,2024,3292
+angular,2024,8306
+flask,2024,6245
+nestjs,2024,2832
+fastapi,2024,4800
+spring boot,2024,6165
+vue.js,2024,7483
+fastify,2024,1070
+solid.js,2024,590
+laravel,2024,3834
+htmx,2024,1591
+deno,2024,943
+phoenix,2024,930
+remix,2024,757
+svelte,2024,3146
+symfony,2024,1531
+play framework,2024,387
+drupal,2024,920
+elm,2024,309
+gatsby,2024,758
+nuxt.js,2024,1753
+strapi,2024,815
+yii 2,2024,454
+astro,2024,1462
+.net (5+),2024,11542
+.net framework (1.0 - 4.8),2024,7525
+.net maui,2024,1446
+numpy,2024,9718
+pandas,2024,9501
+ruff,2024,1355
+tensorflow,2024,4638
+rabbitmq,2024,5010
+xamarin,2024,1333
+roslyn,2024,755
+react native,2024,3832
+opencv,2024,3961
+apache kafka,2024,4308
+cordova,2024,1011
+directx,2024,879
+opencl,2024,785
+apache spark,2024,2016
+keras,2024,1968
+scikit-learn,2024,4849
+spring framework,2024,5091
+pytorch,2024,4846
+cuda,2024,2658
+hugging face transformers,2024,2038
+mlflow,2024,531
+opengl,2024,3122
+tauri,2024,1114
+qt,2024,3360
+tidyverse,2024,768
+swiftui,2024,1986
+electron,2024,2961
+flutter,2024,4293
+hadoop,2024,1047
+ionic,2024,1132
+capacitor,2024,804
+quarkus,2024,585
+gtk,2024,1176
+ktor,2024,559
+mfc,2024,469
+jax,2024,477
+docker,2024,29219
+homebrew,2024,12081
+kubernetes,2024,10503
+npm,2024,26866
+vite,2024,10804
+webpack,2024,9970
+msbuild,2024,5973
+pip,2024,17561
+apt,2024,5669
+make,2024,11259
+pnpm,2024,4836
+yarn,2024,10209
+ansible,2024,4272
+chocolatey,2024,4746
+nuget,2024,8703
+pacman,2024,3702
+terraform,2024,5754
+ant,2024,1539
+godot,2024,2363
+maven (build tool),2024,8435
+visual studio solution,2024,8315
+nix,2024,1450
+gradle,2024,8310
+unity 3d,2024,3179
+bun,2024,2050
+unreal engine,2024,1639
+ninja,2024,2212
+composer,2024,4767
+google test,2024,1678
+podman,2024,2682
+dagger,2024,635
+pulumi,2024,495
+puppet,2024,629
+chef,2024,399
+bash/shell (all shells),2025,15503
+dart,2025,1885
+sql,2025,18633
+java,2025,9358
+html/css,2025,19698
+javascript,2025,21005
+typescript,2025,13859
+kotlin,2025,3420
+c#,2025,8852
+c++,2025,7485
+delphi,2025,796
+lua,2025,2910
+powershell,2025,7371
+python,2025,18410
+vba,2025,1334
+visual basic (.net),2025,1409
+scala,2025,843
+ada,2025,431
+assembly,2025,2246
+cobol,2025,308
+elixir,2025,847
+erlang,2025,465
+f#,2025,406
+fortran,2025,449
+gdscript,2025,1062
+go,2025,5219
+groovy,2025,1535
+lisp,2025,753
+matlab,2025,1231
+micropython,2025,723
+ocaml,2025,367
+perl,2025,1215
+php,2025,5994
+prolog,2025,338
+ruby,2025,2046
+rust,2025,4724
+swift,2025,1719
+zig,2025,680
+mojo,2025,145
+gleam,2025,354
+cloud firestore,2025,1494
+postgresql,2025,14529
+dynamodb,2025,2551
+mongodb,2025,6267
+mysql,2025,10581
+elasticsearch,2025,4347
+microsoft sql server,2025,7871
+oracle,2025,2761
+redis,2025,7316
+sqlite,2025,9798
+cassandra,2025,766
+databricks sql,2025,895
+duckdb,2025,863
+mariadb,2025,5862
+snowflake,2025,1079
+amazon redshift,2025,611
+h2,2025,1303
+bigquery,2025,1705
+cosmos db,2025,1190
+influxdb,2025,963
+neo4j,2025,691
+clickhouse,2025,627
+cockroachdb,2025,262
+pocketbase,2025,262
+valkey,2025,632
+supabase,2025,2878
+ibm db2,2025,615
+firebase realtime database,2025,1299
+microsoft access,2025,1244
+datomic,2025,148
+amazon web services (aws),2025,10618
+cloudflare,2025,4923
+firebase,2025,3200
+google cloud,2025,6015
+gradle,2025,3523
+datadog,2025,2169
+docker,2025,17414
+homebrew,2025,6291
+kubernetes,2025,6993
+maven (build tool),2025,4022
+terraform,2025,4349
+npm,2025,13906
+pnpm,2025,3290
+apt,2025,4516
+make,2025,5682
+msbuild,2025,2700
+nuget,2025,4637
+pip,2025,10025
+microsoft azure,2025,6447
+webpack,2025,4500
+splunk,2025,1105
+bun,2025,1344
+chocolatey,2025,2706
+digital ocean,2025,2621
+netlify,2025,1433
+new relic,2025,936
+ninja,2025,1272
+podman,2025,2730
+poetry,2025,2214
+prometheus,2025,2883
+railway,2025,360
+vercel,2025,2602
+vite,2025,6215
+yandex cloud,2025,165
+yarn,2025,5178
+ansible,2025,2878
+heroku,2025,1318
+cargo,2025,3521
+composer,2025,2701
+pacman,2025,2124
+ibm cloud,2025,294
+spring boot,2025,3481
+next.js,2025,4933
+node.js,2025,11544
+react,2025,10596
+angular,2025,4319
+asp.net,2025,3360
+asp.net core,2025,4664
+flask,2025,3406
+jquery,2025,5541
+django,2025,2980
+fastapi,2025,3504
+angularjs,2025,1718
+astro,2025,1058
+blazor,2025,1648
+deno,2025,960
+drupal,2025,526
+express,2025,4710
+ruby on rails,2025,1395
+svelte,2025,1717
+symfony,2025,949
+vue.js,2025,4162
+wordpress,2025,3227
+axum,2025,671
+phoenix,2025,568
+fastify,2025,692
+nestjs,2025,1596
+laravel,2025,2111
+nuxt.js,2025,948
