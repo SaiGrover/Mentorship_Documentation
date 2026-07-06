@@ -1,8 +1,8 @@
 # Human Skill Extinction Predictor (HSEP)
 
-## Current State of the Project (June 2026)
+## Current State of the Project (July 2026)
 
-The Human Skill Extinction Predictor (HSEP) has evolved from a basic Skill Extinction Score (SES) ranking system into **SkillLens AI**, a complete Workforce Intelligence, Skill Forecasting, Industry Analytics, Recommendation, and Career Intelligence Platform.
+The Human Skill Extinction Predictor (HSEP) has evolved from a basic Skill Extinction Score (SES) ranking system into **SkillLens AI**, a Workforce Intelligence, Skill Forecasting, Industry Analytics, Recommendation, and Career Intelligence Platform.
 
 The project now combines:
 
@@ -17,9 +17,14 @@ The project now combines:
 * RAG-Based Career Advisor Research
 * Frontend Dashboard Development
 * UI/UX Refinement
-* Architecture Documentation
+* Feedback Collection
+* Dataset Validation
+* Graph Explainability
+* Mentor-Driven Product Refinement
 
-Following mentor feedback, the project expanded beyond simple skill ranking and moved toward a product-ready platform that helps users understand which skills are future-proof, growing, stable, risky, or becoming less relevant.
+Following mentor feedback and multiple rounds of frontend review, the project expanded beyond simple skill ranking and moved toward a user-facing platform that helps users understand which skills are future-proof, growing, stable, risky, or becoming less relevant.
+
+The latest phase of development focused on validating dashboard data, improving KPIs and graphs, fixing UI issues, and adding interpretations to analytical visualizations throughout the website.
 
 ---
 
@@ -84,7 +89,7 @@ These features represent:
 * Global Technology Penetration
 * Workforce Momentum
 
-These signals form the foundation for skill scoring, clustering, forecasting, and recommendation intelligence.
+These signals form the foundation for skill scoring, clustering, forecasting, industry analytics, and recommendation intelligence.
 
 ---
 
@@ -229,7 +234,7 @@ Stable
 High-Risk
 ```
 
-These archetypes provide an interpretable workforce segmentation layer and help explain the role of each skill in the future job market.
+These archetypes provide an interpretable workforce segmentation layer and help explain the position of each skill in the changing technology market.
 
 ---
 
@@ -254,9 +259,9 @@ Feature-Based Projection uses:
 
 ```text
 LinkedIn Demand
-Current Usage
 Future Interest
 Growth Rate
+Current Usage
 Global Adoption Score
 ```
 
@@ -342,7 +347,7 @@ Forecast Score =
 Future-Proof → 0.90
 Growing      → 0.70
 Stable       → 0.50
-High-Risk    → 0.25
+High-Risk    → 0.30
 ```
 
 SES outputs include:
@@ -354,13 +359,14 @@ Skill Rankings
 Risk Level
 ```
 
-Categories:
+Risk categories include:
 
 ```text
 Very Safe
 Safe
 Moderate
 Risky
+Extinction Risk
 ```
 
 This makes the SES more balanced, interpretable, and connected to real workforce signals.
@@ -394,7 +400,7 @@ Generated insights include:
 * Archetype Composition Analysis
 * Industry-Level Demand Signals
 
-This helps users understand not only which skills are strong, but also which career domains are expected to remain valuable.
+This helps users understand not only which skills are strong, but also which technology domains show stronger future potential.
 
 ---
 
@@ -413,7 +419,7 @@ Research areas include:
 * Career Path Recommendation
 * AI-Powered Career Guidance
 
-The goal is to make HSEP capable of answering questions such as:
+The goal is to make HSEP capable of supporting questions such as:
 
 ```text
 What should I learn after SQL?
@@ -456,7 +462,7 @@ The knowledge base is planned to contain:
 * Related Skills
 * Recommendation Signals
 
-This will allow the future AI Career Advisor to answer using HSEP project data instead of generic AI knowledge.
+This provides the foundation for a future AI Career Advisor that can answer using project intelligence instead of generic AI knowledge.
 
 ---
 
@@ -487,9 +493,9 @@ Supported query types include:
 * Skill Recommendation
 * Industry Guidance
 * Career Transition
-* Roadmap Generation
+* Personalized Guidance
 
-This improves explainability and reduces generic or hallucinated responses.
+This approach is intended to improve explainability and reduce generic or hallucinated responses.
 
 ---
 
@@ -503,7 +509,7 @@ SkillLens AI
 
 SkillLens AI is the user-facing platform built on top of the HSEP intelligence system.
 
-Initial frontend modules include:
+Current frontend modules include:
 
 * Dashboard
 * Skill Explorer
@@ -513,8 +519,9 @@ Initial frontend modules include:
 * Career Advisor
 * Reports
 * Methodology
+* Feedback
 
-The frontend aims to convert HSEP outputs into an interactive and understandable workforce intelligence dashboard.
+The frontend converts HSEP outputs into an interactive and understandable workforce intelligence dashboard.
 
 ---
 
@@ -529,7 +536,7 @@ Focus areas included:
 * Improved Forecast Formatting
 * Clearer Industry Cards
 * Recommendation Page Design
-* Career Advisor Chat Layout
+* Career Advisor Interface Improvement
 * Reports Page Planning
 * Methodology Page Improvement
 * Better Explainability for SES, Forecasts, and Risk
@@ -540,26 +547,155 @@ The goal was to make SkillLens AI feel like a polished product rather than only 
 
 ## 15. Architecture Documentation and Visual Refinement
 
-The architecture and methodology were updated to reflect the current project direction.
+Project methodology and system flow were documented visually to make the technical work easier to understand.
 
-Updated architecture includes:
+Visual documentation included:
 
-* Data Foundation
-* Skill Universe Expansion
-* Skill Classification
-* Feature Recalculation
-* Temporal Intelligence
-* Archetype Discovery
-* Hybrid Forecasting
-* SES Computation
-* Industry Analytics
-* Recommendation Intelligence
-* Knowledge Base Design
-* RAG Retrieval Pipeline
-* AI Career Advisor
-* SkillLens Frontend
+* HSEP Pipeline Overview
+* Detailed Pipeline Flowchart
+* SES Formula Explanation
+* Methodology Visuals
+* Frontend UI Concepts
 
-This helped make the project easier to understand for mentors, reviewers, and future users.
+These assets improved communication of the technical methodology during mentor review and project documentation.
+
+---
+
+## 16. Feedback Section Addition
+
+A dedicated Feedback section was added to SkillLens AI.
+
+The purpose of the section is to allow users, mentors, and reviewers to provide suggestions about:
+
+* Dashboard usability
+* Skill Explorer experience
+* Forecast clarity
+* Industry insights
+* Recommendation usefulness
+* Career Advisor experience
+* Methodology explanation
+* Overall UI/UX
+
+The Feedback section makes the platform more review-friendly and supports future improvement based on actual user responses.
+
+---
+
+## 17. Mentor Dashboard Review
+
+A detailed mentor meeting was conducted to critically review the Dashboard page.
+
+The mentor analyzed:
+
+* KPI Cards
+* Graph Selection
+* Chart Readability
+* Graph Purpose
+* Data Presentation
+* Dashboard Flow
+* Visual Clarity
+* User Understanding
+
+For every graph, the core questions discussed were:
+
+```text
+What does this graph show?
+
+Why is this graph useful?
+
+What should the user understand from it?
+
+Does it support the purpose of the platform?
+```
+
+The mentor also appreciated the **Methodology page**, particularly its clear explanation of the project workflow and data-driven approach.
+
+The review resulted in a structured list of dashboard improvements and bug fixes.
+
+---
+
+## 18. Dataset Sanity Check and Data Validation
+
+Following the mentor review, the core datasets were checked for consistency and realistic interpretation.
+
+Datasets reviewed included:
+
+```text
+industry_analytics.csv
+canonical_skill_demand_history.csv
+ses_rankings.csv
+forecast_results.csv
+```
+
+The review focused on:
+
+* KPI Validity
+* Skill Ranking Logic
+* Forecast Value Interpretation
+* SES Score Distribution
+* Graph Scaling
+* Current Skill Relevance
+* Industry-Level Patterns
+* Historical Trend Consistency
+
+This step was important because dashboard visuals should not only look good but must also be supported by meaningful data.
+
+---
+
+## 19. Dashboard KPI and Graph Refinement
+
+Based on mentor feedback and dataset validation, several dashboard improvements were applied.
+
+Work included:
+
+* KPI Label Refinement
+* KPI Value Formatting
+* Graph Title Improvements
+* Axis Label Improvements
+* Forecast Value Presentation
+* Graph Scaling Corrections
+* Chart Spacing Improvements
+* Removal of Unclear Visual Elements
+* Better Dashboard Flow
+
+The goal was to make every Dashboard element easier to understand for a first-time user.
+
+---
+
+## 20. UI Bug Fixes and Graph Explainability
+
+Remaining UI bugs were fixed across SkillLens AI and interpretations were added to analytical graphs throughout the website.
+
+UI improvements focused on:
+
+* Section Spacing
+* Card Alignment
+* Text Readability
+* Chart Positioning
+* Responsive Behaviour
+* Visual Consistency
+* Outdated Text Removal
+* Overall Layout Polish
+
+Graph interpretation sections were added to help users understand:
+
+* What the graph represents
+* What trend or pattern is visible
+* Why the graph is important
+* What conclusion can be drawn from it
+
+The explanation approach follows:
+
+```text
+Graph
+   ↓
+Visible Pattern
+   ↓
+Interpretation
+   ↓
+Practical Insight
+```
+
+This significantly improved the explainability of SkillLens AI.
 
 ---
 
@@ -629,23 +765,43 @@ This improved objectivity, interpretability, and robustness.
 
 ---
 
+## Dashboard Explainability
+
+One major product challenge was ensuring that charts and KPIs were understandable to users.
+
+Initial dashboard visuals required improvement in:
+
+* Graph Purpose
+* Titles
+* Labels
+* Scaling
+* KPI Names
+* Value Formatting
+* Interpretation
+
+This was improved through mentor review, dataset validation, graph refinement, and interpretation sections.
+
+---
+
 ## Product Alignment
 
-As the project evolved into SkillLens AI, the frontend and documentation had to be aligned with the current direction.
+As the project evolved into SkillLens AI, the frontend and documentation had to remain aligned with the actual product direction.
 
 This required:
 
-* Renaming Roadmaps to Recommendation
-* Improving dashboard clarity
-* Updating methodology explanations
-* Connecting frontend pages with actual HSEP outputs
-* Making the platform more user-friendly and explainable
+* Replacing Roadmaps with Recommendation
+* Improving Dashboard Clarity
+* Updating Methodology Explanations
+* Connecting Frontend Pages with HSEP Outputs
+* Adding Feedback Collection
+* Improving Explainability
+* Making the Platform More User-Friendly
 
 ---
 
 # Current Architecture
 
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/85b951b4-5a0c-4913-9f27-c610347e29f1" />
+<img width="1448" height="1086" alt="HSEP Architecture" src="https://github.com/user-attachments/assets/85b951b4-5a0c-4913-9f27-c610347e29f1" />
 
 ---
 
@@ -655,6 +811,8 @@ This required:
 
 Provides a high-level overview of tracked skills, industries, forecast insights, risk signals, salary indicators, and workforce intelligence summaries.
 
+The Dashboard was critically reviewed with the mentor and later refined through KPI updates, graph improvements, bug fixes, and interpretation additions.
+
 ## Skill Explorer
 
 Allows users to search, filter, inspect, and understand individual skills using SES, demand, salary, forecast, archetype, and risk signals.
@@ -663,25 +821,63 @@ Allows users to search, filter, inspect, and understand individual skills using 
 
 Displays future skill demand predictions using Holt's Trend Forecasting, Exponential Smoothing, and Feature-Based Projection.
 
+Forecast results include trend direction and confidence information to improve interpretation.
+
 ## Industries
 
 Shows domain-level workforce insights across AI/ML, Data Science, Data Analytics, Data Engineering, Software Engineering, Cloud & DevOps, Cybersecurity, and Systems Engineering.
 
 ## Recommendation
 
-Provides personalized skill suggestions based on current skills, career goals, SES score, forecast trend, industry relevance, demand signals, and risk level.
+Provides skill suggestions using current skills, career goals, SES score, forecast trend, industry relevance, demand signals, and risk level.
+
+The Recommendation module replaced the earlier Roadmaps direction to better match the career intelligence focus of the project.
 
 ## Career Advisor
 
-Planned as an AI-powered assistant that uses HSEP data, RAG retrieval, and LLMs to generate explainable career guidance.
+Represents the AI-powered career guidance direction of SkillLens AI.
+
+The current work includes:
+
+* LLM Research
+* Career Recommendation Research
+* AI Career Advisor Architecture Research
+* Knowledge Base Design
+* RAG Retrieval Research
+* Frontend Interface Planning
+
+Full RAG and backend implementation remain future extensions.
 
 ## Reports
 
-Designed to summarize and export insights such as skill rankings, forecast reports, industry analytics, high-risk skills, and recommendation summaries.
+Designed to summarize and export insights such as:
+
+* Skill Rankings
+* Forecast Reports
+* Industry Analytics
+* High-Risk Skill Insights
+* Recommendation Summaries
 
 ## Methodology
 
-Explains the complete HSEP pipeline, including datasets, feature engineering, clustering, forecasting, SES computation, industry analytics, recommendation logic, and AI advisor architecture.
+Explains the complete HSEP methodology, including:
+
+* Datasets
+* Skill Universe Expansion
+* Feature Engineering
+* Temporal Intelligence
+* Clustering
+* Forecasting
+* SES Computation
+* Industry Analytics
+* Recommendation Logic
+* AI Advisor Research Direction
+
+The Methodology page received positive feedback during mentor review.
+
+## Feedback
+
+Provides a dedicated space for mentors, reviewers, and users to share suggestions about the platform.
 
 ---
 
@@ -739,100 +935,135 @@ Explains the complete HSEP pipeline, including datasets, feature engineering, cl
 
 ✅ Product Alignment and Documentation Cleanup
 
+✅ Feedback Section Addition
+
+✅ Mentor Dashboard Review
+
+✅ Dataset Sanity Check
+
+✅ Dashboard Data Validation
+
+✅ KPI Refinement
+
+✅ Graph Refinement
+
+✅ Forecast Display Improvements
+
+✅ UI Bug Fixes
+
+✅ Website-Wide Graph Interpretations
+
+✅ Frontend Explainability Improvements
+
+✅ Frontend Deployment
+
 ---
 
 ## In Progress
 
-🟡 SkillLens Frontend Refinement
+🟡 Final Website Testing
 
-🟡 Recommendation Page Improvement
+🟡 Final Documentation Cleanup
 
-🟡 Career Advisor Interface Planning
+🟡 Final UI Consistency Checks
 
-🟡 Methodology Page Improvement
-
-🟡 Explainability Improvements
-
-🟡 Product-Level Documentation
+🟡 Final Project Review Preparation
 
 ---
 
-## Upcoming
+## Future Scope
 
-🔲 Backend Integration
+🔲 Backend API Integration
 
 🔲 RAG Pipeline Implementation
 
-🔲 AI Career Advisor Implementation
+🔲 AI Career Advisor Full Implementation
 
-🔲 Recommendation Logic Implementation
+🔲 Advanced Recommendation Logic
 
-🔲 Report Generation System
+🔲 Automated Report Generation
 
-🔲 Full Dashboard Deployment
+🔲 User Profiles and Personalization
 
-🔲 Final Testing and Evaluation
+🔲 Continuous Data Update Pipeline
+
+🔲 Model and Forecast Monitoring
 
 ---
 
 # Progress Estimate
 
 ```text
-Research & Data Layer        ██████████ 100%
-Feature Engineering          ██████████ 100%
-Skill Intelligence           ██████████ 100%
-Temporal Intelligence        ██████████ 100%
-Archetype Discovery          ██████████ 100%
-Forecasting                  ██████████ 100%
-SES Engine                   ██████████ 100%
-Industry Analytics           ██████████ 100%
-Career Intelligence Research ██████████ 100%
-Knowledge Base Research      ██████████ 100%
-RAG Research                 ██████████ 100%
-Frontend Dashboard           ███████░░░ 70%
-UI/UX Refinement             ███████░░░ 70%
-Recommendation Layer         ████░░░░░░ 40%
-Career Advisor               ███░░░░░░░ 30%
-Backend                      ░░░░░░░░░░ 0%
-Deployment                   ░░░░░░░░░░ 0%
+Research & Data Layer         ██████████ 100%
+Feature Engineering           ██████████ 100%
+Skill Intelligence            ██████████ 100%
+Temporal Intelligence         ██████████ 100%
+Archetype Discovery           ██████████ 100%
+Forecasting                   ██████████ 100%
+SES Engine                    ██████████ 100%
+Industry Analytics            ██████████ 100%
+Career Intelligence Research  ██████████ 100%
+Knowledge Base Research       ██████████ 100%
+RAG Research                  ██████████ 100%
+Frontend Dashboard            ██████████ 100%
+UI/UX Refinement              ██████████ 100%
+Dashboard Validation          ██████████ 100%
+Graph Explainability          ██████████ 100%
+Feedback System               ██████████ 100%
+Recommendation Experience     ███████░░░ 70%
+Career Advisor Implementation ███░░░░░░░ 30%
+Backend                       ░░░░░░░░░░ 0%
 ```
 
-Overall Project Completion:
+Overall Current-Scope Completion:
 
 ```text
-~92%
+~98%
 ```
+
+The remaining advanced backend, full RAG implementation, and production-level AI Career Advisor are considered future extensions beyond the completed research and frontend scope.
 
 ---
 
 # Final Summary
 
-HSEP has progressed from a skill-risk prediction idea into **SkillLens AI**, a complete AI-powered workforce intelligence and career guidance platform.
+HSEP has progressed from a skill-risk prediction idea into **SkillLens AI**, an AI-powered workforce intelligence and career guidance platform.
 
 The project now includes:
 
-* Large-scale workforce data analysis
-* Skill universe expansion
-* Technical skill classification
-* Historical skill intelligence
-* Skill archetype discovery
-* Hybrid forecasting
-* SES computation
-* Industry analytics
-* Career recommendation research
-* RAG-based AI advisor planning
-* Frontend dashboard development
-* UI/UX and product refinement
-* Architecture and methodology documentation
+* Large-Scale Workforce Data Analysis
+* Skill Universe Expansion
+* Technical Skill Classification
+* Historical Skill Intelligence
+* Skill Archetype Discovery
+* Hybrid Forecasting
+* SES Computation
+* Industry Analytics
+* Career Recommendation Research
+* RAG-Based AI Advisor Planning
+* Frontend Dashboard Development
+* Feedback Collection
+* Mentor-Driven Review
+* Dataset Sanity Validation
+* KPI and Graph Refinement
+* UI Bug Fixes
+* Graph Interpretation and Explainability
+* Product and Documentation Refinement
 
-The current focus is on refining the SkillLens AI product experience and preparing the platform for backend integration, recommendation logic, and AI Career Advisor implementation.
+The latest phase focused on making the platform more reliable, understandable, and explainable.
+
+Mentor feedback directly influenced dashboard improvements, while dataset validation ensured that displayed insights were checked before final refinement.
+
+The addition of graph interpretations means SkillLens AI now not only displays analytical results but also helps users understand their meaning and relevance.
+
+The current project phase is focused on final testing, documentation cleanup, and closing the current project development cycle.
 
 ---
 
-**Last Updated:** 26 June 2026
+**Last Updated:** 06 July 2026
 
 **Project:** Human Skill Extinction Predictor (HSEP) / SkillLens AI
 
-**Current Phase:** SkillLens AI Product Development, Frontend Refinement & Documentation
+**Current Phase:** Final UI Stabilization, Explainability & Project Review
 
-**Status:** Active Development
+**Status:** Near Completion / Final Review Stage
