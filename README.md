@@ -10,7 +10,7 @@ The project started as a skill-risk prediction system and gradually evolved into
 
 # Current SkillLens AI Architecture
 
-<img width="1491" height="1055" alt="image" src="https://github.com/user-attachments/assets/bc8b8e64-8779-4611-9e0e-8ffdc7a09073" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bbdd783d-d1d2-4f18-8240-a3e215f1c972" />
 
 ---
 
@@ -144,16 +144,7 @@ The clustering process uses workforce demand, salary, current usage, future inte
 
 The forecasting system selects a method according to historical depth:
 
-```text
-≥ 10 Years
-→ Holt's Trend Forecasting
-
-7–9 Years
-→ Exponential Smoothing
-
-< 7 Years
-→ Feature-Based Projection
-```
+<img width="1000" height="400" alt="Hybrid Forecasting Strategy" src="https://github.com/user-attachments/assets/4744b747-1b04-4e34-9c15-b96ff833037b" />
 
 Forecast outputs include:
 
